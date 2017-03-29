@@ -1,0 +1,11 @@
+com\zyz\mapper\ZsItemMapper.class
+com\zyz\mapper\ZsContentCategoryMapper.class
+com\zyz\mapper\ZsItemParamMapper.class
+com\zyz\mapper\ZsContentMapper.class
+com\zyz\mapper\ZsItemCatMapper.class
+com\zyz\mapper\ZsOrderShippingMapper.class
+com\zyz\mapper\ZsUserMapper.class
+com\zyz\mapper\ZsItemDescMapper.class
+com\zyz\mapper\ZsOrderMapper.class
+com\zyz\mapper\ZsOrderItemMapper.class
+com\zyz\mapper\ZsItemParamItemMapper.class
