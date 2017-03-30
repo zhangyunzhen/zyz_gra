@@ -41,6 +41,15 @@ public class ItemCatController {
     @Autowired
     private ItemCatService catService;
     
+    /**
+     * 
+     * Description: <br>
+     * 商品分类展示
+     * 
+     * @param callback
+     * @return String 返回商品分类数据
+     * @see
+     */
     @RequestMapping(value="/list",
         produces = MediaType.APPLICATION_JSON_VALUE + ";charset=utf-8")//解决返回json的编码问题
     @ResponseBody
